@@ -8,4 +8,4 @@
   background-color: black;
   height: 150px;
 }
-
+.start_buttons{display: inline-block; background-color: white; border-radius:4px; }
